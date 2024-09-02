@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Flutter Taxi App UI Kit
 Clone this repository. Open the code folder in any IDE you want
@@ -12,20 +13,13 @@ Clone this repository. Open the code folder in any IDE you want
 	- Select the project you created when you created your API Key for WP Google Maps (See the top arrow in the screenshot below)
 	- Click the link to the Google Maps Directions API in the listing under Google Maps APIs. (See bottom arrow in screenshot below.)
 	- Click Enable on the Google Maps Directions API window.
+=======
+# Flutter Taxi Booking Customer App UI Kit
+>>>>>>> parent of c4781e2 (Update README.md)
 
-	- Click the Credentials link in the left sidebar
-	- Click the Create credentials to get new API KEY
-2. After acquiring Google Map Api, insert  Google Map Api Key to some file:
-	- Androids
-		- android/app/src/main/AndroidManifest.xml
-	- Ios
-		- ios/Runner/AppDelegate.swift
-	- lib/config.dart
-		- ApiKey: your google map api key
-		- language: your language code
-		- region: your region
-> (Read more documents: https://developers.google.com/places/web-service/search)
+## Getting Started
 
+<<<<<<< HEAD
 3. Run get packages
 ```flutter packages get```
 4. Connect your phone to a computer, or open a simulator and run
@@ -69,8 +63,10 @@ Flutter Taxi App UI Kit communicates with the Google Maps API Directions Service
 - Select start position and end position directly on the map
 - Calculate distance, cost, time of the route
 - 25+ Screens
-- Clean code easy develop
+- Clean code easy develop using software principles
 - Using Animation Controller
 - Responsive Design to any all device screen
 - Easy to Custom layout
 - Using mvc model, blocs
+=======
+>>>>>>> parent of c4781e2 (Update README.md)
