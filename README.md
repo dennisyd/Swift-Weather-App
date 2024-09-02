@@ -62,7 +62,7 @@ Flutter Taxi App UI Kit communicates with the Google Maps API Directions Service
 - Filter and display markers around your current location (New)
 - Select start position and end position directly on the map
 - Calculate distance, cost, time of the route
-- 25+ Screens
+- 28+ Screens
 - Clean code easy develop using software principles
 - Using Animation Controller
 - Responsive Design to any all device screen
