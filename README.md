@@ -11,7 +11,6 @@ Clone this repository. Open the code folder in any IDE you want
 		- Maps SDK for IOS
 	- Click the Library link in the left sidebar
 	- Select the project you created when you created your API Key for WP Google Maps (See the top arrow in the screenshot below)
-	- Click the link to the Google Maps Directions API in the listing under Google Maps APIs. (See bottom arrow in screenshot below.)
 	- Click Enable on the Google Maps Directions API window.
 =======
 # Flutter Taxi Booking Customer App UI Kit
